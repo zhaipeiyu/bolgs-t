@@ -1,13 +1,13 @@
 module.exports = {
-  "title": "",
-  "description": "",
+  "title": "Peace&Love",
+  "description": "世界和平",
   "dest": "public",
   "head": [
     [
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        "href": "/smg.jpg"
       }
     ],
     [
@@ -42,13 +42,13 @@ module.exports = {
         ]
       },
       {
-        "text": "Contact",
-        "icon": "reco-message",
+        "text": "你想知道的一切",
+        "icon": "reco-other",
         "items": [
           {
-            "text": "GitHub",
-            "link": "https://github.com/recoluan",
-            "icon": "reco-github"
+            "text": "你懂得",
+            "link": "https://baidu.com",
+            "icon": "reco-other"
           }
         ]
       }
@@ -86,12 +86,12 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/logo.png",
+    "logo": "/smg.jpg",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "",
-    "authorAvatar": "/avatar.png",
+    "author": "zhaipeixi",
+    "authorAvatar": "/mg.jpg",
     "record": "xxxx",
     "startYear": "2017"
   },
